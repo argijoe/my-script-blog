@@ -1,0 +1,1 @@
+sript script untuk mengedit blog
